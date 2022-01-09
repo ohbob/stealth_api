@@ -280,7 +280,8 @@ TGumpInfo = record
   XmfHTMLTok : array of TXmfHTMLTok;
   ItemProperties : array of TItemProperty;
 end;
-```</details>
+</details>
+```
 
 
 Pascal Example:
